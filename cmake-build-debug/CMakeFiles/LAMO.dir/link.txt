@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/LAMO.dir/main.c.o CMakeFiles/LAMO.dir/Functions/LAF.c.o CMakeFiles/LAMO.dir/Functions/UF.c.o  -o LAMO 
